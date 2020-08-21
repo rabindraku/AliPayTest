@@ -1,0 +1,28 @@
+{
+  "order": {
+    "env": {
+      "terminalType": "WEB"
+    },
+    "extendInfo": "{\"chinaExtraTransInfo\":{\"totalQuantity\":\"2\",\"businessType\":\"4\",\"goodsInfo\":\"Macbook 12 inch M3 8G 256G SSD^1|Apple iPad Pro 11 inch^1\"}}",
+    "orderAmount": {
+      "currency": "USD",
+      "value": "100"
+    },
+    "orderDescription": "Macbook 12 inch M3 8G 256G SSD^1|Apple iPad Pro 11 inch^1",
+    "referenceOrderId": "alipayCNOrder12345"
+  },
+  "paymentAmount": {
+    "currency": "USD",
+    "value": "100"
+  },
+  "paymentMethod": {
+    "paymentMethodType": "ALIPAY_CN"
+  },
+  "paymentNotifyUrl": "http://af927046.ngrok.io",
+  "paymentRedirectUrl": "https://www.taobao.com?param1=sl",
+  "paymentRequestId": "ams_alipaycn_cashier_pay_sandbox_request_0001",
+  "productCode": "CASHIER_PAYMENT",
+  "settlementStrategy": {
+    "settlementCurrency": "USD"
+  }
+}
